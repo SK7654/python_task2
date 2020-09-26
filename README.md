@@ -13,3 +13,6 @@
 ![which 1](https://user-images.githubusercontent.com/64473684/94348941-fc501f80-005d-11eb-9d77-e36e0021c019.PNG)
 ![echo1](https://user-images.githubusercontent.com/64473684/94348942-ff4b1000-005d-11eb-8fa8-869702dde7c3.PNG)
 ![docker images1](https://user-images.githubusercontent.com/64473684/94348946-0b36d200-005e-11eb-8dfb-438ba307cfa5.PNG)
+![ps -aux1](https://user-images.githubusercontent.com/64473684/94349145-9369a700-005f-11eb-8a22-40e080e0bbfe.PNG)
+![who1](https://user-images.githubusercontent.com/64473684/94349146-9795c480-005f-11eb-8c7e-e890ead8e0f4.PNG)
+![docker ps1](https://user-images.githubusercontent.com/64473684/94349148-9a90b500-005f-11eb-86b1-d22398689537.PNG)
