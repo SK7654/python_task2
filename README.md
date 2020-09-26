@@ -1,5 +1,5 @@
 # python_task2
-
+![1](https://user-images.githubusercontent.com/64473684/94349009-6e286900-005e-11eb-9997-7a2c71616c42.PNG)
 ![d1](https://user-images.githubusercontent.com/64473684/94348914-cc088100-005d-11eb-9071-46250f9c02c7.PNG)
 ![cal1](https://user-images.githubusercontent.com/64473684/94348917-d0349e80-005d-11eb-8b45-61f53a95affa.PNG)
 ![ls1](https://user-images.githubusercontent.com/64473684/94348920-d32f8f00-005d-11eb-8faa-b9a91664d0d2.PNG)
