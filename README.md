@@ -10,7 +10,7 @@
 ![route -n 1](https://user-images.githubusercontent.com/64473684/94348937-ed696d00-005d-11eb-9616-3ac4faedc0a3.PNG)
 ![netstat -tnlp1](https://user-images.githubusercontent.com/64473684/94348938-f1958a80-005d-11eb-9eda-1005122a4e69.PNG)
 ![whoami1](https://user-images.githubusercontent.com/64473684/94348939-f3f7e480-005d-11eb-9c1c-8be14322c293.PNG)
-![whoami1](https://user-images.githubusercontent.com/64473684/94348940-f9edc580-005d-11eb-8bea-9bae964c7a97.PNG)
+
 ![which 1](https://user-images.githubusercontent.com/64473684/94348941-fc501f80-005d-11eb-9d77-e36e0021c019.PNG)
 ![echo1](https://user-images.githubusercontent.com/64473684/94348942-ff4b1000-005d-11eb-8fa8-869702dde7c3.PNG)
 ![docker images1](https://user-images.githubusercontent.com/64473684/94348946-0b36d200-005e-11eb-8dfb-438ba307cfa5.PNG)
